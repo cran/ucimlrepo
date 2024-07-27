@@ -1,0 +1,16 @@
+bb756dda00a9e6e07e4433073980c567 *DESCRIPTION
+26639def0a1b1da839b3a009719c2892 *LICENSE
+e7648fab4d027e95a6f9ea6615d9acde *NAMESPACE
+3c524eba47f7827c233017e953ee3f97 *R/constants.R
+a9393ae653f9bd8642b4e6b6918b29a1 *R/fetch-ucirepo.R
+9b14ae146f5d40cb55ccaabdaed95de5 *R/list-available-datasets.R
+df6cc46bc7fae1a55b713f3d5065b35a *R/ucimlrepo-package.R
+d766bdb32c4d8ba9af6f0b11fa81f7ff *README.md
+fd385c6cd791b9054783c3e13fd6a0a1 *inst/WORDLIST
+a6241d543b817c5b6a8bab72b28e2a7c *man/fetch_ucirepo.Rd
+ab5c7d41d9a068c3c6b41ad3c30f1807 *man/figures/logo-ucimlrepo.png
+44b5f1d6c5c3d661bd7af65549c46162 *man/list_available_datasets.Rd
+7aad024ea37af1213bd8d6b2f409af97 *man/ucimlrepo-package.Rd
+ff1911fec32a63279af8aa41635df69d *tests/testthat.R
+1e56ac38bbbe1cb1a9d120f9dda23dda *tests/testthat/test-fetch-ucirepo.R
+0234dc399ceb3482eb77ed808f88eb36 *tests/testthat/test-list-available-datasets.R
