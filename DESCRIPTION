@@ -1,6 +1,6 @@
 Package: ucimlrepo
 Title: Explore UCI ML Repository Datasets
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("James Joseph", "Balamuta", email = "james.balamuta@gmail.com", 
            role = c("aut", "cre", "cph"), 
@@ -22,16 +22,16 @@ License: MIT + file LICENSE
 Depends: R (>= 4.1)
 Imports: httr2, utils
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Collate: 'constants.R' 'fetch-ucirepo.R' 'list-available-datasets.R'
         'ucimlrepo-package.R'
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-07-22 23:45:47 UTC; ronin
+Packaged: 2024-08-31 07:00:50 UTC; ronin
 Author: James Joseph Balamuta [aut, cre, cph]
     (<https://orcid.org/0000-0003-2826-8458>),
   Philip Truong [aut, cph]
 Maintainer: James Joseph Balamuta <james.balamuta@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-07-27 16:30:02 UTC
+Date/Publication: 2024-08-31 07:20:02 UTC
